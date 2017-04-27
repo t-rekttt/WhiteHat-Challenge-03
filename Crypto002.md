@@ -13,7 +13,8 @@
 
 Submit WhiteHat{sha1(flag)}
 
-http://i.imgur.com/xojdqTs.png
-http://i.imgur.com/7Oz3L9s.png
-http://i.imgur.com/6AiyB5W.png
-http://i.imgur.com/EP2ruxw.png
+![](http://i.imgur.com/xojdqTs.png)
+![](http://i.imgur.com/7Oz3L9s.png)
+![](http://i.imgur.com/6AiyB5W.png)
+![](http://i.imgur.com/EP2ruxw.png)
+

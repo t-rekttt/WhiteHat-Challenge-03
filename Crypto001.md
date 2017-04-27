@@ -5,9 +5,9 @@ I happen to get this text, but it seems to be encrypted. Decrypt it and find the
 
 Submit WhiteHat{sha1(flag)}
 
-http://i.imgur.com/kfTuQSC.png
-http://i.imgur.com/gcLu0MQ.png
+![](http://i.imgur.com/kfTuQSC.png)
+![](http://i.imgur.com/gcLu0MQ.png)
 
-> FLAG IS THE YEAR THAT CEASAR WAS BORN
+> FLAG IS THE YEAR THAT CAESAR WAS BORN
 
 Flag: **WhiteHat(sha1(100))**
